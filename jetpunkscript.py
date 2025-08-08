@@ -23,8 +23,8 @@ pyautogui.hotkey('command','ctrl','f')
 
 time.sleep(1)
 pyautogui.click(x=1460, y=151)
-username = 'jetpunkspeedrun'
-password = '11111111'
+username = ''
+password = ''
 pyautogui.click(x=876, y=257)
 time.sleep(1)
 pyautogui.typewrite(username)
